@@ -28,7 +28,8 @@ Ideal Outcome :star_struck:
 
 Minimal Viable Outcome :cry:
 - the very basic function of the game
-- no sounds 
+- how about just make it playable QAQ
+ 
 
 ## Milestones :hourglass_flowing_sand:
 
