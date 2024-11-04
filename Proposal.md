@@ -40,10 +40,10 @@ Minimal Viable Outcome :cry:
 - Week 2 :alarm_clock:
   1. break the code apart and work on the functions
   2. I'm sure I will need to do more research while working on it.
-  3. trying out the features added
+  3. try to have the features added
   4. ask for TA's help if needed
 
 - Week N (Final) :alarm_clock:
-  1. wrap up everything
+  1. wrap up everything and keep it organized and clean
   2. start test play
   3. make changes to the stats
