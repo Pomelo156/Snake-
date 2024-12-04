@@ -35,8 +35,8 @@ score_font = pygame.font.SysFont("comicsansms", 35)
 bgm_path = os.path.join('BGM', 'yesterday.mp3')
 if os.path.exists(bgm_path):
     pygame.mixer.music.load(bgm_path)
-    pygame.mixer.music.set_volume(0.5)   # Set volume to a reasonable level
-    pygame.mixer.music.play(-1)          # Loop the background music indefinitely
+    pygame.mixer.music.set_volume(0.1)      # Set volume to a reasonable level
+    pygame.mixer.music.play(-1)             # Loop the background music indefinitely
 
 # Function to display score
 def Your_score(score):
